@@ -7,3 +7,5 @@ urlpatterns = [
     path('subscribes', SubscribeToCampaignAPIView.as_view(), name='subscribe'),
 
 ]
+
+
